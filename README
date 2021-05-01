@@ -1,0 +1,9 @@
+Requirements: Minikube, Terraform, Docker installed 
+To Run Dockerfile: docker build -t app .
+To Run Terraform -> Go to tf folder, and use the three commands:
+1. terraform init
+2. terraform plan
+3. terraform apply in order to apply the terraform configs
+Helm Chart is available for configuration of the app
+
+Enjoy! 
